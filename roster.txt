@@ -1,0 +1,5 @@
+Nose Tackle = Hank Hill
+Left End = Bobby Hill
+Right End = Dale Gribble
+Left Outside Linebacker = Jeff Boomhauer
+Right Outside Linebacker = Bill Dauterive
