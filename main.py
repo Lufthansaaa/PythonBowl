@@ -5,8 +5,6 @@ from roster import *
 from kickoff import kickoff
 
 
-
-
 def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
 
