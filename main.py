@@ -68,7 +68,7 @@ def play():
                     down = 2
                     print(f"SCOREBOARD: 0 - 0, {2} and 10")
                 elif chance == 3:
-                    print("The receiver caught it, tacked by " + random.choice(defense_positions) + ", WHICH CAUSES A FUMBLE!!!")
+                    print("The receiver caught it, tackled by " + random.choice(defense_positions) + ", WHICH CAUSES A FUMBLE!!!")
                     fumble1 = random.randint(1, 2)
                     if fumble1 == 1:
                         print("The offense recovered the ball.")
