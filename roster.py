@@ -20,15 +20,15 @@ class starting_defense:
         CB LOLB MIDLIB ROLB CB
                     
                 FS SS"""
-        self.nose_tackle = "Hank Hill"
-        self.left_end = "Bobby Hill"
-        self.right_end = "Dale Gribble"
-        self.left_outside_linebacker = "Jeff Boomhauer"
-        self.right_outside_linebacker = "Bill Dauterive"
-        self.left_inside_linebacker = "John Redcorn"
-        self.right_inside_linebacker = "Kahn Souphanousinphone"
-        self.left_cornerback = "Joseph Gribble"
-        self.right_cornerback = "Luanne Platter"
-        self.free_safety = "Peggy Hill"
-        self.strong_safety = "Nancy Gribble"
+        self.nose_tackle = nose_tackle
+        self.left_end = left_end
+        self.right_end = right_end
+        self.left_outside_linebacker = left_outside_linebacker
+        self.right_outside_linebacker = right_outside_linebacker
+        self.left_inside_linebacker = left_inside_linebacker
+        self.right_inside_linebacker = right_inside_linebacker
+        self.left_cornerback = left_cornerback
+        self.right_cornerback = right_cornerback
+        self.free_safety = free_safety
+        self.strong_safety = strong_safety
         print(lineup)
