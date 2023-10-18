@@ -72,12 +72,11 @@ def play():
                         print("The offense recovered the ball.")
                     elif fumble1 == 2:
                         print("THE DEFENSE TURNS IT OVER!")
-                        print("The defense now has the ball.")
 
 
-    else:
-        play_start = input("The other team has the ball, press enter to start the play. ")
-    play = True
+            else:
+                play_start = input("The other team has the ball, press enter to start the play. ")
+            play = True
 
 
-play()
+game.play()
