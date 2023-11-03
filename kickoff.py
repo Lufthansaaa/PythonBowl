@@ -6,7 +6,7 @@ class kickoff:
         while your_num is None:
             user_input = input("Pick a number between 1 and 10. ")
             if user_input.strip() == "":
-                print("Please enter a number")
+                print("Please enter a number: ")
             else:
                 try:
                     your_num = int(user_input)
